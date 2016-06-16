@@ -27,8 +27,8 @@
       "allowedValues": [
         "West US",
         "East US",
-        "West Europe",
         "North Europe",
+        "West Europe",
         "East Asia",
         "Southeast Asia"
       ],
