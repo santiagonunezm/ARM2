@@ -6,10 +6,10 @@
       "value": "GEN-UNIQUE"
     },
     "storageAccountType": {
-      "value": "Standard_GRS"
+      "value": "Standard_LRS"
     },
     "location": {
-      "value": "West US"
+      "value": "North Europe"
     },
     "adminUsername": {
       "value": "azureuser"
